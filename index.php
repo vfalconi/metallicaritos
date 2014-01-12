@@ -14,6 +14,11 @@
 	<meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Metallicaritos | Metallica Songs + Doritos Flavors</title>
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://metallicaritos.vincefalconi.com" />
+  <meta property="og:title" content="Metallicaritos | Metallica Songs + Doritos Flavors" />
+  <meta property="og:image" content="http://metallicaritos.vincefalconi.com/assets/img/og-cover.jpg" />
+  <meta property="og:description" content="" />
   <meta name="description" content="Metallica Songs + Doritos Flavors. Because internet.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
