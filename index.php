@@ -30,6 +30,8 @@
    		font-size: 100%;
   	}
   	p {
+      width: 75%;
+      margin: 2em auto;
   		text-transform: uppercase;
    		text-align: center;
    		font-size: 3em;
